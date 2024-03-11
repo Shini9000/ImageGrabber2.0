@@ -6,3 +6,4 @@ TO DO: Add an option to *add an input* and allow a wider genre of [lists]
 Thanks, feedback is always welcome 
 
 Discord: Shini2232
+LinkedIn: https://www.linkedin.com/in/aidanchristie98/
