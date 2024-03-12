@@ -7,7 +7,7 @@ selectlist = ['Hedgehog', 'Dog', 'Cat', 'Goat', 'Cow', 'Fish', 'Highlandcow', 'P
 def Image_Selector():
     print(f'Select from the list: \n {selectlist}. \nor enter your own input.')
 
-    ans = input()
+    ans = input().capitalize()
 
     if 'Close' in ans or 'Exit' in ans:
         exit()
